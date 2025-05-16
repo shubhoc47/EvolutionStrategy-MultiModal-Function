@@ -20,8 +20,8 @@ The search is conducted within the bounds `x, y ∈ [-5, 5]`. The global minimum
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your_repository_url>
-    cd <repository_name>
+    git clone <https://github.com/shubhoc47/EvolutionStrategy-MultiModal-Function.git>
+    cd <EvolutionStrategy-MultiModal-Function>
     ```
 2.  **Set up a Python environment:**
     It's recommended to use a virtual environment.
