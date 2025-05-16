@@ -39,5 +39,4 @@ The search is conducted within the bounds `x, y ∈ [-5, 5]`. The global minimum
     ```
     This will execute the (1+1)-ES, print progress and final results to the console, and generate/save two plots: `fitness_sigma_convergence.png` and `search_path_contour.png`.
 
-### Report
-The `REPORT.md` file contains the detailed write-up of the project, including problem formulation, ES implementation details, results, analysis, discussion, and conclusions, structured to meet the assignment criteria. (You would replace this sentence with a link to the actual PDF if you convert it).
+
